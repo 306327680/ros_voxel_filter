@@ -4,7 +4,13 @@ put it into your catkin_ws folder and:
 
 
 catkin_make
+
+
+
 source ./devel/setup.bash 
+
+
+
 rosrun voxel_filter voxel_filtenode 
 
 
